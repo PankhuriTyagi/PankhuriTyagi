@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PankhuriTyagi
-- 👀 I’m interested in Data Science, Analytics, Statistics and BOOOOKKKKKKS
-- 🌱 I’m currently learning Time Series Analysis, Network/Graph Analysis and GAAAMIIING
+- 👀 I’m interested in Data Science, Analytics, Statistics and Books
+- 🌱 I’m currently learning Time Series Analysis, Network/Graph Analysis
 - 💞️ I’m looking to collaborate on any interesting Machine Learning project
 
 <!---
